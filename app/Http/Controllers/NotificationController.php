@@ -34,7 +34,6 @@ public function index(Request $request)
     }
 }
 
-
 public function deleteAllNotifications(Request $request)
 {
     try {
